@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/sashabludov" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### :man_technologist: About Me :
 A 28 years manual QA engineer with strong analytical skills.
+Self-starter, individually motivated and charismatic team-player, open-minded, responsible,
+resourceful, with a desire to become someone with a strong presence in technologic area
+Immediate goal to become Automation QA Engineer
 
 ## My [CV](https://drive.google.com/file/d/1YeMr0vMeWM4FmR1lFtKwneSzu8YNIWgC/view?usp=sharing)
 
@@ -21,14 +25,6 @@ A 28 years manual QA engineer with strong analytical skills.
     <img src="https://img.shields.io/badge/Djinni-blue?style=for-the-badge&logo=djinni&logoColor=white" alt="Djinni Badge"/>
   </a>
 </div>
-
-### :man_technologist: About Me :
-I am a QA Engineer from Russia
-Self-starter, individually motivated and charismatic team-player, open-minded, responsible,
-resourceful, with a desire to become someone with a strong presence in technologic area
-Immediate goal to become Automation QA Engineer
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
