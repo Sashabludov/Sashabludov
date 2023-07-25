@@ -2,9 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 A 28 years manual QA engineer with strong analytical skills.
-Self-starter, individually motivated and charismatic team-player, open-minded, responsible,
-resourceful, with a desire to become someone with a strong presence in technologic area.
-Immediate goal to become Automation QA Engineer.
 
 ## My [CV](https://drive.google.com/file/d/1YeMr0vMeWM4FmR1lFtKwneSzu8YNIWgC/view?usp=sharing)
 
@@ -24,3 +21,30 @@ Immediate goal to become Automation QA Engineer.
     <img src="https://img.shields.io/badge/Djinni-blue?style=for-the-badge&logo=djinni&logoColor=white" alt="Djinni Badge"/>
   </a>
 </div>
+
+### :man_technologist: About Me :
+I am a QA Engineer from Russia
+Self-starter, individually motivated and charismatic team-player, open-minded, responsible,
+resourceful, with a desire to become someone with a strong presence in technologic area
+Immediate goal to become Automation QA Engineer
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sashabludov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashabludov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
