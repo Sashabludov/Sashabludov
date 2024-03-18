@@ -7,7 +7,6 @@ Self-starter, individually motivated and charismatic team-player, open-minded, r
 resourceful, with a desire to become someone with a strong presence in technologic area
 Immediate goal to become Automation QA Engineer
 
-## My [CV](https://drive.google.com/file/d/1jnk6BMFxPoBHx6rZQtqx5Y8PD71Dly_9/view?usp=sharing)
 ## My [Certificate](https://certificate.ithillel.ua/view/48647042)
 
 ## My contact
