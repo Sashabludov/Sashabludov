@@ -9,23 +9,6 @@ Immediate goal to become Automation QA Engineer
 
 ## My [Certificate](https://certificate.ithillel.ua/view/48647042)
 
-## My contact
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alexandr-polienko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://telegram.org/sashabludov">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://hh.ru/resume/022c1028ff08d89ddd0039ed1f4e4e62705a6c">
-    <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&logo=headhuner&logoColor=white" alt="HeadHunter Badge"/>
-  </a>
-  <a href="https://djinni.co/q/a093748e2d/">
-    <img src="https://img.shields.io/badge/Djinni-blue?style=for-the-badge&logo=djinni&logoColor=white" alt="Djinni Badge"/>
-  </a>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman"  alt="Postman" width="40" height="40"/>
